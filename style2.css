@@ -8,6 +8,7 @@ body {
 .section {
   padding-top: 1.0rem;
   padding-bottom: 1.0rem;
+  width: 100%;
 }
 .list-inline {
   padding-left: 0;
@@ -29,7 +30,14 @@ body {
   background: #f5f5f5;
 }
 
+.margin-fix {
+  margin-top: .3rem;
+}
 
+
+.fa {
+  margin-right: 15px;
+}
 /*.projects {*/
   /*margin-bottom: 30px;*/
 /*}*/
