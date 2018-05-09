@@ -1,12 +1,16 @@
 body {
   background: #DAE3E7;
 }
+.header {
+  display: flex;
+  margin-bottom: 1rem;
+}
 .section-inner {
   padding: 1.5rem;
   background-color: #fff;
   width: 100%;
 }
-.random {
+.section-divider {
   margin-bottom: 1.2rem;
 }
 
@@ -45,5 +49,6 @@ body {
 @media (max-width: 767px) {
   .header {
     text-align: center;
+    flex-direction: column;
   }
 }
