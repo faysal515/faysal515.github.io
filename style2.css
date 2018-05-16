@@ -52,3 +52,11 @@ body {
     flex-direction: column;
   }
 }
+
+
+.profile-photo {
+  height: 180px;
+  width: 180px;
+  border-radius: 100px;
+  border: 2px solid cornflowerblue;
+}
