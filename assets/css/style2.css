@@ -1,5 +1,5 @@
 body {
-  background: #DAE3E7;
+  background: #dae3e7;
 }
 .header {
   display: flex;
@@ -16,18 +16,17 @@ body {
 
 .sub-section {
   padding: 1.2rem;
-
 }
 .list-inline {
   padding-left: 0;
   margin-left: -5px;
-  list-style: none
+  list-style: none;
 }
 
 .list-inline > li {
   display: inline-block;
   padding-right: 5px;
-  padding-left: 5px
+  padding-left: 5px;
 }
 
 .item {
@@ -39,7 +38,7 @@ body {
 }
 
 .primary-section {
-  margin-top: .3rem;
+  margin-top: 0.3rem;
   /*width: 100%;*/
 }
 .fa {
@@ -53,10 +52,8 @@ body {
   }
 }
 
-
 .profile-photo {
-  height: 180px;
-  width: 180px;
-  border-radius: 100px;
+  border-radius: 15%;
   border: 2px solid cornflowerblue;
+  /* max-width: 220px; */
 }
