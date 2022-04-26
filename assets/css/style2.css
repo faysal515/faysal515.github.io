@@ -53,7 +53,5 @@ body {
 }
 
 .profile-photo {
-  border-radius: 4%;
-  border: 2px solid cornflowerblue;
-  /* max-width: 220px; */
+  max-height: 200px;
 }
