@@ -54,4 +54,7 @@ body {
 
 .profile-photo {
   max-height: 200px;
+  border: 3px solid;
+  border-image: linear-gradient(to right, gray 20%, gray 20%, orange 30%, orange 50%);
+  border-image-slice: 1;
 }
